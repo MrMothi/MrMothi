@@ -4,7 +4,12 @@
 
 ## More about me and my skillset
 
-I am a second year computer science student at Toronto Metropolitan University, and have a goal of becoming a software developer. I have programmed for several years starting in high school, and have worked with several coding languages, frameworks, and more. Some of my personal projects can be seen on here, and I continue to learn and create more.
+* I am a second year computer science student at Toronto Metropolitan University
+* Goal of becoming a software developer
+* Started programming in high school 
+* Gaming is my favourite passtime 🕹️
+* I like building computers
+*🔍 I continue to learn and Create more 💡
 
 ### Most proficient coding languages
 
