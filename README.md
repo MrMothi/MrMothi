@@ -9,7 +9,8 @@
 * Started programming in high school 
 * Gaming is my favourite passtime 🕹️
 * I like building computers
-*🔍 I continue to learn and Create more 💡
+
+*🔍 I continue to learn and Create more 💡*
 
 ### Most proficient coding languages
 
