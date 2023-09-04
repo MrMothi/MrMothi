@@ -4,7 +4,7 @@
 
 ## More about me and my skillset
 
-* I am a second year computer science student at Toronto Metropolitan University
+* I am a third year computer science co-op student at Toronto Metropolitan University
 * Goal of becoming a software developer
 * Started programming in high school 
 * Gaming is my favourite passtime 🕹️
