@@ -5,7 +5,7 @@
 ## More about me and my skillset
 
 * I am a computer science co-op student at Toronto Metropolitan University
-* Goal of becoming a software developer
+* Goal of working in the computer science domain
 * Started programming in high school 
 * Gaming is my favourite passtime 🕹️
 * I like building computers
